@@ -18,3 +18,4 @@ We partner with high-growth startup founders and engineering teams to design, bu
 - 🌐 **Studio:** [inferscalelabs.com](https://inferscalelabs.com)
 - 💼 **Engagement Inquiries:** [Start a Project](https://inferscalelabs.com/contact)
 - ✉️ **Contact:** [contact@inferscalelabs.com](mailto:contact@inferscalelabs.com)
+- 📄 **Policies:** [Refund and Cancellation Policy](https://github.com/inferscalelabs/.github/blob/main/REFUND_AND_CANCELLATION_POLICY.md)
